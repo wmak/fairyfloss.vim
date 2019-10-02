@@ -7,7 +7,7 @@ endif
 
 let g:colors_name = 'fairyfloss'
 
-hi Normal guifg=#f8f8f0 guibg=#5a5475 gui=NONE
+hi Normal guifg=NONE guibg=NONE gui=NONE ctermfg=NONE
 " hi NormalNC
 
 " UI {{{
